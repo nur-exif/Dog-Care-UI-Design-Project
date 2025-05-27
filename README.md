@@ -3,7 +3,7 @@
 
 # Sigma DogCare System (SDCS) - UX Design Walkthrough
 
-Welcome to the UX case study of the **Sigma DogCare System (SDCS)** — a dual-interface mobile application designed for Macquarie University students. This project focuses on delivering an inclusive, accessible, and streamlined user experience for both dog owners and dog carers.
+Welcome to the UX case study of the **Sigma DogCare System (SDCS)** — a dual-interface mobile application designed for  students. This project focuses on delivering an inclusive, accessible, and streamlined user experience for both dog owners and dog carers.
 
 ---
 
