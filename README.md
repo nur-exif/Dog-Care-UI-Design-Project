@@ -1,6 +1,10 @@
 <h2><strong>"I made 5,127 prototypes of my vacuum before I got it right. There were 5,126 failures. But I learned from each one. That's how I came up with a solution."</strong></h2>
 <p><em>— James Dyson</em></p>
 
+
+
+
+
 # Sigma DogCare System (SDCS) - UX Design Walkthrough
 
 Welcome to the UX case study of the **Sigma DogCare System (SDCS)** — a dual-interface mobile application designed for  students. This project focuses on delivering an inclusive, accessible, and streamlined user experience for both dog owners and dog carers.
